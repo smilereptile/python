@@ -21,6 +21,7 @@ p = 1 + 2 - 6 * 45 + 2 \
 
 type(p)
 type("un string")
+type({1,"float"})
 
 float(p)
 
