@@ -46,3 +46,5 @@ while i < len(chaine):
 # pour que cela marche, il faut faire des selections
 chaine = chaine[0:6] + "h" + chaine[7:]
 print(chaine)
+
+print(minuscules)
